@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "challenge.app.JwtSecret",
+      "type": "java.lang.String",
+      "description": "Description for challenge.app.JwtSecret."
+    },
+    {
+      "name": "challenge.app.jwtExpirationMs",
+      "type": "java.lang.String",
+      "description": "Description for challenge.app.jwtExpirationMs."
+    }
+  ] }
